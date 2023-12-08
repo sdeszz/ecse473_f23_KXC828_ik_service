@@ -1,4 +1,4 @@
-# ECSE373_F23_kxc828_IK_Service
+
 
 This ROS package, `ik_service`, is developed to perform Inverse Kinematics (IK) calculations for a robotic system. The package is structured as follows:
 
